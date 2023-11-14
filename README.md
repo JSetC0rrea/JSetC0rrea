@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSetC0rrea
 - 👀 I’m interested in software development and robotics
-- 🌱 I’m currently learning app development in my free time and am a student at Thomas Jefferson University studying Information Technology
+- 🌱 I’m currently learning app and web development in my free time and am a student at Thomas Jefferson University studying Information Technology
 
 
 <!---
